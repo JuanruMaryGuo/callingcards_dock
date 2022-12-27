@@ -1,0 +1,16 @@
+matplotlib
+numpy
+pandas
+numba 
+tqdm
+scipy
+scanpy
+appdirs
+sphinx-autoapi
+furo
+pybedtools
+seaborn
+os
+json
+time
+requests
