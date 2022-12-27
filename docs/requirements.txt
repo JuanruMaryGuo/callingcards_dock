@@ -10,7 +10,3 @@ sphinx-autoapi
 furo
 pybedtools
 seaborn
-os
-json
-time
-requests
