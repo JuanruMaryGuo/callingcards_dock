@@ -36,7 +36,7 @@ extensions = ['sphinx.ext.autodoc', 'autoapi.extension']
 
 pygments_style = "sphinx"
 pygments_dark_style = "monokai"
-autoapi_dirs = ['../pycallingcards']
+autoapi_dirs = ['./pycallingcards']
 autoapi_options = ['members', 'inherited-members', 'imported-members']
 autoapi_template_dir = 'autoapi_templates'
 autodoc_mock_imports = ["numba", "anndata", "scanpy", "numpy", "matplotlib", "tqmd", "scipy", "pandas"]
