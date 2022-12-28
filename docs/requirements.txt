@@ -1,5 +1,0 @@
-appdirs
-sphinx-autoapi
-furo
-GitPython
-spateo-release

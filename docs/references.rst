@@ -1,22 +1,34 @@
 References
 ----------
 
-.. [Korunsky19] Ilya Korsunsky, Nghia Millard, Jean Fan, Kamil Slowikowski, Fan Zhang, Kevin Wei, Yuriy Baglaenko, Michael Brenner, Po-Ru Loh, Soumya Raychaudhuri,
-    *Fast, sensitive and accurate integration of single-cell data with Harmony*,
-    `Nature Methods <https://doi.org/10.1038/s41592-019-0619-0>`__.
+.. [Moudgil20] Moudgil *et al.* (2020),
+   *Self-Reporting Transposons Enable Simultaneous Readout of Gene Expression and Transcription Factor Binding in Single Cells*,
+   `Cell <https://doi.org/10.1016/j.cell.2020.06.037>`__.
 
-.. [Schmidt18] Uwe Schmidt, Martin Weigert, Coleman Broaddus, Gene Myers,
-    *Cell Detection with Star-Convex Polygons*,
-    `Medical Image Computing and Computer Assisted Intervention <https://doi.org/10.1007/978-3-030-00934-2_30>`__.
+.. [Virshup21]  Virshup *et al.* (2021),
+   *anndata: Annotated data*,
+   `bioRxiv <https://www.biorxiv.org/content/10.1101/2021.12.16.473007v1>`__.
+   
+.. [Wolf18] Wolf *et al.* (2018),
+   *SCANPY: large-scale single-cell gene expression data analysis*,
+   `Genome Biology <https://doi.org/10.1186/s13059-017-1382-0>`__.
 
-.. [Stringer20] Carsen Stringer, Tim Wang, Michalis Michaelos, Marius Pachitariu,
-    *Cellpose: a generalist algorithm for cellular segmentation*,
-    `Nature Methods <https://doi.org/10.1038/s41592-020-01018-x>`__.
+.. [Zhang08] Zhang *et al.* (2008),
+   *Model-based Analysis of ChIP-Seq (MACS)*,
+   `Genome Biology <https://doi.org/10.1186/gb-2008-9-9-r137>`__.
 
-.. [Weigert20] Martin Weigert, Uwe Schmidt, Robert Haase, Ko Sugawara, Gene Myers,
-    *Star-convex Polyhedra for 3D Object Detection and Segmentation in Microscopy*,
-    `The IEEE Winter Conference on Applications of Computer Vision <https://doi.org/10.1109/WACV45572.2020.9093435>`__.
+.. [Quinlan10] Quinlan *et al.* (2010),
+   *BEDTools: a flexible suite of utilities for comparing genomic featuress*,
+   `Bioinformatics <https://doi.org/10.1093/bioinformatics/btq033>`__.
 
-.. [Greenwald21] Noah F. Greenwald, Geneva Miller, Erick Moen, Alex Kong, Adam Kagel, Thomas Dougherty, Christine Camacho Fullaway, Brianna J. McIntosh, Ke Xuan Leow, Morgan Sarah Schwartz, Cole Pavelchek, Sunny Cui, Isabella Camplisson, Omer Bar-Tal, Jaiveer Singh, Mara Fong, Gautam Chaudhry, Zion Abraham, Jackson Moseley, Shiri Warshawsky, Erin Soon, Shirley Greenbaum, Tyler Risom, Travis Hollmann, Sean C. Bendall, Leeat Keren, William Graf, Michael Angelo, David Van Valen,
-    *Whole-cell segmentation of tissue images with human-level performance using large-scale data annotation and deep learning*,
-    `Nature Biotechnology <https://doi.org/10.1038/s41587-021-01094-0>`__.
+.. [Kfoury21] Kfoury *et al.* (2021),
+   *Brd4-bound enhancers drive cell-intrinsic sex differences in glioblastoma*,
+   `PNAS <https://doi.org/10.1073/pnas.2017148118>`__.
+
+.. [Cammack19] Cammack *et al.* (2019),
+   *A viral toolkit for recording transcription factor–DNA interactions in live mouse tissues*,
+   `PNAS <https://doi.org/10.1073/pnas.1918241117>`__.
+
+.. [Heinz10] Heinz *et al.* (2010),
+   *Simple Combinations of Lineage-Determining Transcription Factors Prime cis-Regulatory Elements Required for Macrophage and B Cell Identities*,
+   `Molecular Cell <https://www.cell.com/molecular-cell/fulltext/S1097-2765(10)00366-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1097276510003667%3Fshowall%3Dtrue#%20>`__.
